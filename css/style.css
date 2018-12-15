@@ -609,9 +609,7 @@ img {
       width: 45%;
       margin-right: 1em;
       margin-bottom: 1em;
-      text-align: center; }
-      .skills-item:last-child {
-        width: 100%; } }
+      text-align: center; } }
   @media (min-width: 1024px) {
     .skills-item {
       margin-bottom: 2em; } }
