@@ -811,6 +811,7 @@ img {
   letter-spacing: 0.1em; }
 
 .page-footer {
+  padding-top: 50px;
   margin-bottom: 25px; }
 
 .button {
